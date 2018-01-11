@@ -6,9 +6,9 @@ printf("Enter the numbers");
 scanf("%d %d %d",&a,&b,&c);
 if(a>b&&a>c)
 {
-prinf("a is greater");
+printf("a is greater");
 }
-elseif(b>c)
+else if(b>c)
 {
 printf("b is greater");
 }
